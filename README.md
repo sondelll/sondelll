@@ -1,6 +1,6 @@
 
 # Greetings
-I’m the certified maniac known as Sondelll (yeah, 3 L's).
+I’m the certified maniac commonly referred to as Sondelll.
 You can normally find me knee deep in obscure dev projects,
 or possibly doing some elaborate media production,
 I like to get around.
