@@ -7,13 +7,17 @@ I like to get around.
 ## Starting off
 I did some C# through building small game-like stuff in Unity,
 I later expanded to C++ and Python.
-I'm currently getting familiar with NodeJS.
-I want to mess around with some PHP, but I can never seem to find the time.
+I'm currently building my first fullstack (MERN) webapp prototype.
+
 
 ## Currently working on:
-* Splinterr - A stacked monitoring solution for residential heating    
-* TimeVis - Data visualization from university schedules, made for use with API, testing with scraped data.    
+### Iteration 5 or higher:
+* Splinterr - A SCADA-like solution for a proprietary residential heating system
+* G2 Bygglauv - A webapp prototype for submitting building permits. (University course)
+
+### In early stages:
 * return false; - An entertainment project, https://linktr.ee/returnfalse/
+* StudEff - A tool for dealing with the everlasting struggle of keeping up to date with higher education studies.
 
 ## Contact
 Not that I see why it would be of interest, but I'm reachable through Discord,
