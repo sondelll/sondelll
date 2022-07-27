@@ -1,24 +1,20 @@
 
 # Greetings
-I’m the certified maniac commonly referred to as Sondelll.
-You can normally find me knee deep in obscure dev projects,
+My name is Lukas Sondell but I'm usually referred to as Sondelll on the internet.
+You can normally find me knee deep in obscure dev projects
 or possibly doing some elaborate media production,
-I like to get around.
+I definitely like variation.
+
 ## Starting off
 I did some C# through building small game-like stuff in Unity,
 I later expanded to C++ and Python.
-I'm currently building my first fullstack (MERN) webapp prototype.
+After spending a few months hammering in Javascript and subsequently Typescript, I've returned somewhat to C# for my work on the Unity-based game Mama Goose at Not A Duck Studios.
 
 
 ## Currently working on:
-### Iteration 5 or higher:
-* Splinterr - A SCADA-like solution for a proprietary residential heating system
-* G2 Bygglauv - A webapp prototype for submitting building permits. (University course)
-
-### In early stages:
-* return false; - An entertainment project, https://linktr.ee/returnfalse/
-* StudEff - A tool for dealing with the everlasting struggle of keeping up to date with higher education studies.
+* Mama Goose - A Unity game about an unlikely hero
+* formula-predict - A machine learning package to predict outcome of F1 races based on available data.
 
 ## Contact
-Not that I see why it would be of interest, but I'm reachable through Discord,
+If you want to reach out, I'm reachable through Discord, feel free:
 * Sondelll#0001
