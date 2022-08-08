@@ -8,7 +8,7 @@ I definitely like variation.
 ## Starting off
 I did some C# through building small game-like stuff in Unity,
 I later expanded to C++ and Python.
-After spending a few months hammering in Javascript and subsequently Typescript, I've returned somewhat to C# for my work on the Unity-based game Mama Goose at Not A Duck Studios.
+After spending a few months hammering in Javascript and subsequently Typescript, I've returned somewhat to C# for my work on the Unity-based game Mama Goose.
 
 
 ## Currently working on:
