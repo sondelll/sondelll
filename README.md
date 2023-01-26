@@ -8,12 +8,12 @@ I definitely like variation.
 ## Starting off
 I did some C# through building small game-like stuff in Unity,
 I later expanded to C++ and Python.
-After spending a few months hammering in Javascript and subsequently Typescript, I've returned somewhat to C# for my work on the Unity-based game Mama Goose.
+After spending a few months hammering in Javascript and subsequently Typescript, I've picked Python back up to play around with machine learning.
 
 
 ## Currently working on:
-* Mama Goose - A Unity game about an unlikely hero
-* formula-predict - A machine learning package to predict outcome of F1 races based on available data.
+* Mama Goose - A game about an unlikely hero
+* Crokket - An offline-only solution for audio transcription
 
 ## Contact
 If you want to reach out, I'm reachable through Discord, feel free:
