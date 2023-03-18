@@ -11,4 +11,4 @@ I definitely like variation.
 
 ## Contact
 If you want to reach out, I'm reachable through Discord, feel free:
-* Sondelll#0001
+* Sondelll \#0001
