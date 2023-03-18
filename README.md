@@ -1,6 +1,6 @@
 
 # Greetings
-My name is Lukas Sondell but I'm usually referred to as Sondelll on the internet.
+My name is Lukas Sondell but I'm often simply referred to as Sondelll.
 You can normally find me knee deep in obscure dev projects
 or possibly doing some elaborate media production,
 I definitely like variation.
