@@ -15,7 +15,8 @@ jobs:
           token: ${{ secrets.METR }}
           config_timezone: Europe/Paris
           base: header
-          plugin_languages: yes
-          config_order: base.header, languages
+          plugin_isocalendar: yes
+          plugin_stars: yes
+          config_order: base.header, iso_calendar, stars
           output_action: commit
       

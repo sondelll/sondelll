@@ -1,4 +1,5 @@
-
+![SVG Profile Header](github-metrics.svg)
+<svg src="github-metrics.svg" style={{width:100%}}>
 # Greetings
 My name is Lukas Sondell but I'm often simply referred to as Sondelll.
 You can normally find me knee deep in obscure dev projects
