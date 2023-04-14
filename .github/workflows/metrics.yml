@@ -1,0 +1,20 @@
+name: AutoMetrics
+on:
+  workflow_dispatch
+  #daily
+  #schedule: [{cron: "0 8,18 * * *"}]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METR }}
+          config_timezone: Europe/Paris
+          base: header
+          plugin_languages: yes
+          config_order: base.header, languages
+      
