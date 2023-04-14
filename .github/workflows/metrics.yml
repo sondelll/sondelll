@@ -17,4 +17,5 @@ jobs:
           base: header
           plugin_languages: yes
           config_order: base.header, languages
+          output_action: commit
       
