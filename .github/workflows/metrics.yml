@@ -2,7 +2,7 @@ name: AutoMetrics
 on:
   workflow_dispatch
   #daily
-  #schedule: [{cron: "0 8,18 * * *"}]
+  schedule: [{cron: "0 8,18 * * *"}]
 
 jobs:
   github-metrics:
