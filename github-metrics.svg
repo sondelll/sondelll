@@ -73,7 +73,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>weaviate/weaviate</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.</div>
@@ -179,7 +179,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>protocolbuffers/protobuf</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Protocol Buffers - Google's data interchange format</div>
@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA/tacotron2</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tacotron 2 - PyTorch implementation with faster-than-realtime inference</div>
