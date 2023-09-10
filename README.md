@@ -4,7 +4,7 @@ My name is Lukas Sondell but I'm often simply referred to as Sondelll.
 ## Currently working on:
 - [x] My degree 👨‍🎓  
 - [x] Getting a job 🕵️‍♂️
-- [ ] Make stuff happen..?
+- [ ] Making stuff happen..?
 
 ## Activity Overview
 ![SVG Profile Header](github-metrics.svg)
