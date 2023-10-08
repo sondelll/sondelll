@@ -1,5 +1,5 @@
 # Greetings
-My name is Lukas Sondell but I'm often simply referred to as Sondelll.
+My name is Lukas Sondell, often referred to as Sondelll.
 
 ## Currently working on:
 - [x] My degree 👨‍🎓  
