@@ -1,12 +1,5 @@
 # Greetings
-My name is Lukas Sondell, often referred to as Sondelll.
+My name is Lukas Sondell, I only code when I need to. As it turns out... that's a lot.
 
 ## Currently working on:
-- [x] My degree 👨‍🎓  
-- [x] Getting a job 🕵️‍♂️
-- [ ] Making stuff happen..?
-
-## Contact
-If you want to reach out, I'm usually available through Discord, feel free:
-**Sondelll**
-
+- [ ] Project Sensei (Information Management)
