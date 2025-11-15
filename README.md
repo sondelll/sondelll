@@ -4,17 +4,12 @@ I only code when I need to. As it turns out... that's a lot.
 
 <p align="center">
 	<a>
-    <img src="https://skillicons.dev/icons?i=htmx,astro,nextjs" />
+    <img src="https://skillicons.dev/icons?i=htmx,astro,nextjs,pytorch,tensorflow" />
 	</a>
 </p>
 <p align="center">
 	<a>
     <img src="https://skillicons.dev/icons?i=go,py,ts,cs,c,haskell,zig" />
-	</a>
-</p>
-<p align="center">
-	<a>
-    <img src="https://skillicons.dev/icons?i=pytorch" />
 	</a>
 </p>
 <p align="center">
