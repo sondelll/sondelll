@@ -4,17 +4,12 @@ I only code when I need to. As it turns out... that's a lot.
 
 <p align="center">
 	<a>
-    <img src="https://skillicons.dev/icons?i=ansible,kubernetes,postgres,kafka,redis,docker" />
-	</a>
-</p>
-<p align="center">
-	<a>
     <img src="https://skillicons.dev/icons?i=htmx,astro,nextjs" />
 	</a>
 </p>
 <p align="center">
 	<a>
-    <img src="https://skillicons.dev/icons?i=cs,ts,py,c,go" />
+    <img src="https://skillicons.dev/icons?i=go,py,ts,cs,c,haskell,zig" />
 	</a>
 </p>
 <p align="center">
@@ -24,6 +19,6 @@ I only code when I need to. As it turns out... that's a lot.
 </p>
 <p align="center">
 	<a>
-    <img src="https://skillicons.dev/icons?i=haskell,zig" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,postgres,kafka,redis" />
 	</a>
 </p>
