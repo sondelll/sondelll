@@ -6,7 +6,7 @@ I only code when I need to. As it turns out... that's a lot.
 
 <p align="center">
 	<a href="">
-    <img src="https://skillicons.dev/icons?i=htmx,astro,go,py,ts,postgres,redis,pytorch" />
+    <img src="https://skillicons.dev/icons?i=go,py,ts,htmx,astro,postgres,redis,pytorch" />
 	</a>
 </p>
 
@@ -14,7 +14,7 @@ I only code when I need to. As it turns out... that's a lot.
 
 <p align="center">
 	<a href="">
-    <img src="https://skillicons.dev/icons?i=htmx,astro,tensorflow,cs,c,mongodb" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,cs,c,cpp,mongodb" />
 	</a>
 </p>
 
@@ -22,6 +22,6 @@ I only code when I need to. As it turns out... that's a lot.
 
 <p align="center">
 	<a href="">
-    <img src="https://skillicons.dev/icons?i=haskell,zig" />
+    <img src="https://skillicons.dev/icons?i=haskell,zig,rust" />
 	</a>
 </p>
