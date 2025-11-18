@@ -4,6 +4,12 @@ I only code when I need to. As it turns out... that's a lot.
 
 <p align="center">
 	<a href="">
+    <img src="https://skillicons.dev/icons?i=htmx,astro,nextjs,pytorch,tensorflow,go,py,ts,cs,c,haskell,zig,mongodb,postgres,kafka,redis,ubuntu,arch,kali" />
+	</a>
+</p>
+
+<p align="center">
+	<a href="">
     <img src="https://skillicons.dev/icons?i=htmx,astro,nextjs,pytorch,tensorflow" />
 	</a>
 </p>
